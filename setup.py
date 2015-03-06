@@ -8,5 +8,5 @@ setup(name='django-namespaced-cache',
       author='Andres Pardini',
       author_email='unpardos@gmail.com',
       url='https://github.com/pardo/namespaced-cache/',
-      packages=[],
+      packages=['django_namespaced_cache'],
      )
